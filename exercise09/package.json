@@ -1,0 +1,12 @@
+{
+  "name": "exercise09",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alessio Satta",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "supertest": "^6.3.1"
+  }
+}
